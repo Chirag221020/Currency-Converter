@@ -77,7 +77,7 @@ const msg = document.querySelector(".msg")
      let rate = data[toSelect.value.toLowerCase()];
      //  console.log(rate);
      let finalData = amount * rate;
-     msg.innerText = `${amount} ${fromSelect.value} = ${toSelect.value} ${finalData}`;
+     msg.innerText = `${finalData} ${toSelect.value}`;
         }
     // console.log(amount);
     // console.log(`${fromSelect.value}, ${toSelect.value}`)
