@@ -250,7 +250,7 @@ select{
         background-color: rgb(10, 7, 29);
         padding-bottom: 20px;
         margin-top: -20px;
-        margin-left: -130px ;   
+        margin-left: -140px ;   
         overflow: hidden; 
     }
     .img{
@@ -275,7 +275,7 @@ select{
         margin-top: 4rem;
         align-items: center;
         justify-content: center;
-        margin-left: 25px;
+        margin-left: 20px;
         
     }
     .msg{
