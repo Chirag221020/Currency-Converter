@@ -165,8 +165,39 @@ select{
    /* padding-top: 30px;
    padding-bottom: 10px; */
 }
+@media screen and (max-width: 600px){
 
+        #blur{
+            margin-top: 15%;
+            padding-bottom: 30%;
+        }
+    .value-box{
+        display: flex;
+        flex-direction: column;
+        margin-top: 25%;
 
+    }
+    #heading{
+        font-size: 4ch;
+        margin-top: -58px
+    }
+    .img{
+        padding-top: 20px;
+       
+    }
+    .value{
+       
+        margin-top: 5%;
+    }
+    .btn{
+        margin-top: 8%;
+    }
+    .msg{
+        background-color: aliceblue;
+        margin-top: 30%;
+    }
+    
+}
 
 
 
